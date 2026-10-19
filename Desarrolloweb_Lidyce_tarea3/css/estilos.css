@@ -1,0 +1,31 @@
+body p{
+color: green; /*4. el parrafo cambia a color verde*/
+}
+
+
+body{
+	background-color: black;
+	color: white !important; /*2. ahora pasa a blanco por la declaración important*/
+	font-family: Verdana;
+}
+
+h1 {
+	font-family: Arial;
+}
+
+a {
+	color: inherit;
+}
+
+div{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+body{
+color: red; /*1. todo el texto pasa a rojo*/
+}
+
+p{
+	 color: blue; /*3. el parrafo cambia a color azul*/
+}
